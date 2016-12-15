@@ -1,7 +1,7 @@
 # DS5
 GA Data Science Course
 
-## H2 Justin Vena's Data Science Course Repository 
+### Justin Vena's Data Science Course Repository 
 
 To be used for:
 
