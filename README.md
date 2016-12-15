@@ -3,7 +3,7 @@ GA Data Science Course
 
 ## H2 Justin Vena's Data Science Course Repository 
 
-To be used for
+To be used for:
 
 1. Saving files
 2. Keeping Resources such as:
