@@ -1,6 +1,6 @@
 # Justin Vena's Project question and dataset
 
-**1. What is the question you hope to answer? **
+**1. What is the question you hope to answer? 
 
 Can we predict what characteristics (mainly based on income and ZIP codes) to which areas will buy an ACA dental insurance product?
 
