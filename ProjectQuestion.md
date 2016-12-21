@@ -14,4 +14,4 @@ Kaggle's  data set contains information about the different plans and rates sold
 
 **4. Why did you choose this topic?**
 
-I have always worked in the employee benefits realm. This would continue to in the area that I am familiar, and it also would provide insights on the type of people that are purchasing ACA exchange plans. 
+I have always worked in the employee benefits realm. This would continue to in the area that I am familiar, but outside the financials of the employee benefit product. It also would provide insights on the type of people that are purchasing ACA exchange plans, which I have not focused on in the past. 
